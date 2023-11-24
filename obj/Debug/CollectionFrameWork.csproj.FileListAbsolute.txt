@@ -1,0 +1,7 @@
+E:\CSharp\CollectionFrameWork\CollectionFrameWork\bin\Debug\CollectionFrameWork.exe.config
+E:\CSharp\CollectionFrameWork\CollectionFrameWork\bin\Debug\CollectionFrameWork.exe
+E:\CSharp\CollectionFrameWork\CollectionFrameWork\bin\Debug\CollectionFrameWork.pdb
+E:\CSharp\CollectionFrameWork\CollectionFrameWork\obj\Debug\CollectionFrameWork.csproj.AssemblyReference.cache
+E:\CSharp\CollectionFrameWork\CollectionFrameWork\obj\Debug\CollectionFrameWork.csproj.CoreCompileInputs.cache
+E:\CSharp\CollectionFrameWork\CollectionFrameWork\obj\Debug\CollectionFrameWork.exe
+E:\CSharp\CollectionFrameWork\CollectionFrameWork\obj\Debug\CollectionFrameWork.pdb
